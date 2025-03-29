@@ -5,15 +5,15 @@
 I am an aspiring software devloper and designer building new and innovated pieces of software to make the digital world an easier and fun space! I develop my projects with in mind to not only demonstrate my skills but to create solutions to day-in-life problems. I am always learning the lastest techonologies and work really hard to refine my coding skills to contribute to bigger project than the ones I had created in my spare time. My goals that I have is to contrbiute something meanful to any company that wishes to have me in their project. Thank you for taking the time in reading this. 
 
 <h3 align="left">More info about ME</h3>
-###
+
 <p align="left">
-  🌱 I’m currently learning C++ to refine my understanding on high-level machine language
-  🔭 I’m currently working on a program for my computer that helps me with task such as organizing my files in my computer
-  📫 You can reach out to me via my email jla44@njit.edu
+  🌱 I’m currently learning C++ to refine my understanding on high-level machine language <br>
+  🔭 I’m currently working on a program for my computer that helps me with task such as organizing my files in my computer<br>
+  📫 You can reach out to me via my email jla44@njit.edu <br>
 </p>
 
 <h2 align="left">I code with</h2>
-###
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,js,flask,react,mysql,postgres&perline=4)](https://skillicons.dev)
 
 
 <!--
