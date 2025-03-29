@@ -13,7 +13,7 @@ I am an aspiring software devloper and designer building new and innovated piece
 </p>
 
 <h2 align="left">I code with</h2>
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,js,flask,react,mysql,postgres&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 <!--
