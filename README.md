@@ -15,7 +15,7 @@ I am an aspiring software devloper and designer building new and innovated piece
 <h2 align="left">I code with</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,matlab,flask,react,nextjs,mysql,postgres" />
   </a>
 </p>
 
